@@ -1,1 +1,1 @@
-# Naruto
+# Example of README.md
